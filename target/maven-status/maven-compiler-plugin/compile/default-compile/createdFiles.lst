@@ -1,0 +1,10 @@
+com\springboottest\springboottest\Bean\User.class
+com\springboottest\springboottest\controller\GameInfoController.class
+com\springboottest\springboottest\Bean\Person.class
+com\springboottest\springboottest\SpringboottestApplication.class
+com\springboottest\springboottest\mapper\GameInfoMapper.class
+com\springboottest\springboottest\Bean\Pet.class
+com\springboottest\springboottest\controller\HelloController.class
+com\springboottest\springboottest\Bean\GameInfo.class
+com\springboottest\springboottest\service\GameInfoService.class
+com\springboottest\springboottest\impl\GameInfoServiceImpl.class

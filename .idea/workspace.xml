@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e2e2fde-5ffe-4396-b559-359e13b58db7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/SpringboottestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/SpringboottestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springboottest">
+      <favorite_root url="Maven: com.test:autostarter:0.0.1-SNAPSHOT" type="namedLibrary" klass="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode">
+        <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/Bytes.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/Handler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/JarFile.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/JarEntry.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/AsciiBytes.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/FileHeader.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/JarEntryFilter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/JarFileEntries.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/JarFileWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/StringSequence.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/AbstractJarFile.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/JarURLConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/JarEntryCertification.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/CentralDirectoryParser.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/ZipInflaterInputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/CentralDirectoryVisitor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/CentralDirectoryEndRecord.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jar/CentralDirectoryFileHeader.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/data" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/data/RandomAccessData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/data/RandomAccessDataFile.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/util" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/util/SystemPropertyUtils.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/archive" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/archive/Archive.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/archive/JarFileArchive.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/archive/ExplodedArchive.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jarmode" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jarmode/JarMode.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jarmode/TestJarMode.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/jarmode/JarModeLauncher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/Launcher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/JarLauncher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/WarLauncher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/MainMethodRunner.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/ClassPathIndexFile.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/PropertiesLauncher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/LaunchedURLClassLoader.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/org/springframework/boot/loader/ExecutableArchiveLauncher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/snakeyaml-1.28.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/log4j-api-2.14.1.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/slf4j-api-1.7.30.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/spring-aop-5.3.8.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/spring-jcl-5.3.8.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/spring-boot-2.5.1.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/spring-core-5.3.8.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/logback-core-1.2.3.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/spring-beans-5.3.8.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/jul-to-slf4j-1.7.30.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/spring-context-5.3.8.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/log4j-to-slf4j-2.14.1.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/logback-classic-1.2.3.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/spring-expression-5.3.8.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/jakarta.annotation-api-1.3.5.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/spring-boot-autoconfigure-2.5.1.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/spring-boot-jarmode-layertools-2.5.1.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes/com" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes/com/test" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes/com/test/autostarter" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes/com/test/autostarter/Service" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes/com/test/autostarter/Service/HelloService.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes/com/test/autostarter/autoconfigure" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes/com/test/autostarter/autoconfigure/StarterProperties.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes/com/test/autostarter/autoconfigure/StarterAutoConfiguration.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes/com/test/autostarter/AutostarterApplication.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+              </favorite_root>
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes/application.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/layers.idx" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/classpath.idx" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/META-INF" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/META-INF/maven" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/META-INF/maven/com.test" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/META-INF/maven/com.test/autostarter" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/META-INF/maven/com.test/autostarter/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/META-INF/maven/com.test/autostarter/pom.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/META-INF/MANIFEST.MF" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/META-INF/spring.factories" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/controller/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-boot-dependencies</find>
+      <find>&gt;spring-boot-dependencies</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\boot\springboottest\src\main\java\com\springboottest\springboottest\mapper</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/ConfigTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/Bean/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/Bean/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/Bean/Pet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alibaba/druid/pool/DruidDataSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/SpringboottestApplication.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/springboottest/springboottest/SpringboottestApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/service/GameInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/Bean/GameInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/impl/GameInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/CodeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/controller/GameInfoController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-dev.yaml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-prod.yaml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config.application.yml/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/application.yml" />
+        <option value="$PROJECT_DIR$/config/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboottest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboottest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="30" />
+    <option name="y" value="40" />
+    <option name="width" value="1850" />
+    <option name="height" value="1005" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboottest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboottest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../autostarter" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\boot\springboottest\src\main\resources\com.springboottest.springboottest.mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.springboottest.springboottest" />
+      <recent name="com.springboottest.springboottest.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\boot\springboottest\src\main\resources" />
+      <recent name="D:\boot\springboottest\src\main\java\com\springboottest\springboottest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringboottestApplication">
+    <configuration name="CodeGenerator.genCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboottest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboottest.springboottest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.springboottest.springboottest" />
+      <option name="MAIN_CLASS_NAME" value="com.springboottest.springboottest.CodeGenerator" />
+      <option name="METHOD_NAME" value="genCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringboottestApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboottest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboottest.springboottest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.springboottest.springboottest" />
+      <option name="MAIN_CLASS_NAME" value="com.springboottest.springboottest.SpringboottestApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringboottestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboottest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboottest.springboottest.SpringboottestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CodeGenerator.genCode" />
+        <item itemvalue="JUnit.SpringboottestApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e2e2fde-5ffe-4396-b559-359e13b58db7" name="Default Changelist" comment="" />
+      <created>1623847159316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623847159316</updated>
+      <workItem from="1623847161916" duration="9776000" />
+      <workItem from="1623934056864" duration="6616000" />
+      <workItem from="1623941693443" duration="514000" />
+      <workItem from="1623942694366" duration="240000" />
+      <workItem from="1623943451087" duration="281000" />
+      <workItem from="1623945089844" duration="262000" />
+      <workItem from="1623946450191" duration="311000" />
+      <workItem from="1623946836454" duration="950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SpringboottestApplicationTests_contextLoads - 2021.06.17 at 21h 15m 22s.xml">
+      <configuration name="SpringboottestApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringboottestApplicationTests_contextLoads - 2021.06.17 at 21h 17m 37s.xml">
+      <configuration name="SpringboottestApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringboottestApplicationTests_contextLoads - 2021.06.17 at 21h 18m 04s.xml">
+      <configuration name="SpringboottestApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_genCode - 2021.06.17 at 21h 20m 14s.xml">
+      <configuration name="CodeGenerator.genCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_genCode - 2021.06.17 at 21h 22m 41s.xml">
+      <configuration name="CodeGenerator.genCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_genCode - 2021.06.17 at 21h 23m 22s.xml">
+      <configuration name="CodeGenerator.genCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_genCode - 2021.06.17 at 21h 24m 24s.xml">
+      <configuration name="CodeGenerator.genCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringboottestApplicationTests_contextLoads - 2021.06.17 at 21h 25m 15s.xml">
+      <configuration name="SpringboottestApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringboottestApplicationTests_contextLoads - 2021.06.17 at 21h 26m 21s.xml">
+      <configuration name="SpringboottestApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_genCode - 2021.06.17 at 21h 28m 01s.xml">
+      <configuration name="CodeGenerator.genCode" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18950000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4439946" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24966262" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" weight="0.3299595" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.71532845" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48759124" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" />
+      <window_info anchor="bottom" id="Jms Browser" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.329927" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32928476" />
+      <window_info anchor="right" id="Mybatis datasource" order="5" side_tool="true" />
+      <window_info anchor="right" id="Jms Messenger" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/repository/org/springframework/spring-context/5.3.8/spring-context-5.3.8.jar!/org/springframework/context/annotation/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/spring-context/5.3.8/spring-context-5.3.8.jar!/org/springframework/context/ConfigurableApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="82" lean-forward="true" selection-start-line="54" selection-start-column="82" selection-end-line="54" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot/2.5.1/spring-boot-2.5.1.jar!/org/springframework/boot/SpringApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="823" column="34" selection-start-line="823" selection-start-column="34" selection-end-line="823" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot/2.5.1/spring-boot-2.5.1.jar!/org/springframework/boot/context/properties/ConfigurationProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot/2.5.1/spring-boot-2.5.1.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/Bean/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot/2.5.1/spring-boot-2.5.1.jar!/org/springframework/boot/SpringBootConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.1/spring-boot-autoconfigure-2.5.1.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/spring-web/5.3.8/spring-web-5.3.8.jar!/org/springframework/web/bind/annotation/RestController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.1/spring-boot-autoconfigure-2.5.1.jar!/org/springframework/boot/autoconfigure/web/reactive/function/client/WebClientAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.1/spring-boot-autoconfigure-2.5.1.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.1/spring-boot-autoconfigure-2.5.1.jar!/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1210">
+          <caret line="34" column="63" lean-forward="true" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.1/spring-boot-autoconfigure-2.5.1.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="117" column="15" lean-forward="true" selection-start-line="117" selection-start-column="15" selection-end-line="117" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.1/spring-boot-autoconfigure-2.5.1.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/spring-core/5.3.8/spring-core-5.3.8.jar!/org/springframework/core/io/support/SpringFactoriesLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.1/spring-boot-autoconfigure-2.5.1.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.1/spring-boot-autoconfigure-2.5.1.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.1/spring-boot-autoconfigure-2.5.1.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.1/spring-boot-autoconfigure-2.5.1.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="80" column="94" selection-start-line="80" selection-start-column="89" selection-end-line="80" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/Bean/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/lang/annotation/ElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/spring-web/5.3.8/spring-web-5.3.8.jar!/org/springframework/web/bind/annotation/ExceptionHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/spring-web/5.3.8/spring-web-5.3.8.jar!/org/springframework/web/bind/annotation/ControllerAdvice.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/Bean/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alibaba/druid/pool/DruidDataSource.java" />
+    <entry file="file://D:/repository/org/springframework/data/spring-data-jdbc/2.2.1/spring-data-jdbc-2.2.1.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="217" column="20" lean-forward="true" selection-start-line="217" selection-start-column="20" selection-end-line="217" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/repository/org/springframework/boot/spring-boot-starter-data-jdbc/2.5.1/spring-boot-starter-data-jdbc-2.5.1.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="51" column="25" lean-forward="true" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/main/java/com/springboottest/springboottest/SpringboottestApplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/SpringboottestApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/ConfigTest.java" />
+    <entry file="jar://D:/repository/com/baomidou/mybatis-plus-boot-starter/3.4.1/mybatis-plus-boot-starter-3.4.1.jar!/com/baomidou/mybatisplus/autoconfigure/SafetyEncryptProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/repository/mysql/mysql-connector-java/5.1.49/mysql-connector-java-5.1.49.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/springboottest/springboottest/SpringboottestApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/Bean/GameInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/service/GameInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/impl/GameInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/CodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/org/springframework/data/spring-data-redis/2.5.1/spring-data-redis-2.5.1.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="47" column="71" selection-start-line="47" selection-start-column="71" selection-end-line="47" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/controller/GameInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/com/test/autostarter/0.0.1-SNAPSHOT/autostarter-0.0.1-SNAPSHOT.jar!/BOOT-INF/classes/com/test/autostarter/Service/HelloService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/cn/clboy/spring/boot/clboy-spring-boot-autoconfigure/0.0.1-SNAPSHOT/clboy-spring-boot-autoconfigure-0.0.1-SNAPSHOT.jar!/cn/clboy/spring/boot/autoconfigure/StarterProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/cn/clboy/spring/boot/clboy-spring-boot-autoconfigure/0.0.1-SNAPSHOT/clboy-spring-boot-autoconfigure-0.0.1-SNAPSHOT.jar!/cn/clboy/spring/boot/Service/HelloService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboottest/springboottest/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
